@@ -7,7 +7,7 @@ def resta():
 def multip():
     print("El resultado de la multiplicación es:", c*d)
     print("El tipo de variable:", type(c*d))
-def divis():
+def division():
     print("El resultado de la división es:", a/c)
     print("El tipo de variable:", type(a/c))
 
@@ -18,4 +18,4 @@ d = 8.6
 suma()
 resta()
 multip()
-divis()
+division()
